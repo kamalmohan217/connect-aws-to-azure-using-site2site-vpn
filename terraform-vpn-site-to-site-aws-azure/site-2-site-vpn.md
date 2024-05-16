@@ -2,7 +2,8 @@
 
 **High Level Architecture Diagram**
 <br><br/>
-![image](https://github.com/singhritesh85/connect-aws-to-azure-using-site2site-vpn/assets/56765895/0cad0574-9ae8-4d3c-b8b7-7f3d772eecf9)
+![image](https://github.com/kamalmohan217/connect-aws-to-azure-using-site2site-vpn/assets/128888356/0f4d7681-cbaa-4ba0-9951-b1db48905c35)
+
 
 Using this terraform script it is possible to establish a connection between AWS and Azure. Follow below steps to achieve this. 
 ```
